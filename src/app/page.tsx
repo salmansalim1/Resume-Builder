@@ -7,7 +7,6 @@ export default function Resume() {
     const [showObjective, setShowObjective] = useState(true);
     const [showEducation, setShowEducation] = useState(true);
     const [showProfessionalQualification, setShowProfessionalQualification] = useState(true);
-    const [showWorkExperience, setShowWorkExperience] = useState(true);
     const [showSkills, setShowSkills] = useState(true);
 
     return (
